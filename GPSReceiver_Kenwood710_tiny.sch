@@ -3188,8 +3188,8 @@ We've spent an enormous amount of time creating and checking these footprints an
 <variantdefs>
 </variantdefs>
 <classes>
-<class number="0" name="default" width="0.3048" drill="0.3">
-<clearance class="0" value="0.3048"/>
+<class number="0" name="default" width="0.4064" drill="0.3">
+<clearance class="0" value="0.5588"/>
 </class>
 </classes>
 <parts>
